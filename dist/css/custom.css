@@ -1,0 +1,18 @@
+div.end{
+	margin: 40px 0;
+}
+td:first-child{
+	font-weight: bold;
+}
+a.list-group-item-danger{
+	color: #A94442;
+}
+.list-group-item-danger{
+	background-color: #F2DEDE;
+}
+a.list-group-item-success{
+	color: #3C763D;
+}
+.list-group-item-success{
+	background-color: #DFF0D8;
+}
